@@ -1,2 +1,2 @@
 
-HELLO 
+Script that prints "Hello, World"
